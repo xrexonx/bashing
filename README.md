@@ -32,7 +32,7 @@ alias htdocs='cd /Applications/MAMP/htdocs/';
 alias vhosts='sudo vi /Applications/MAMP/conf/apache/extra/httpd-vhosts.conf';
 
 # Edit hosts
-alias hosts='sudo vi /etc/hosts/'
+alias hosts='sudo vi /etc/hosts'
 
 # Git aliases by rexon
 alias gs='git status';
