@@ -122,3 +122,8 @@ export MANPATH="$NPM_PACKAGES/share/man:$(manpath)"
 
 
 ```
+## License
+MIT © [Rexon A. De los Reyes](http://xrexonx.github.io)
+
+
+#### Thanks and enjoy. Godspeed!
