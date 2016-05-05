@@ -1,5 +1,5 @@
 # bashing
-Just clouding my ~/.bash_profile
+Clouding my ~/.bash_profile for future self migration purposes. IYKWIM
 
 ```sh
 # Rexon A. De los Reyes
