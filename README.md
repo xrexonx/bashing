@@ -38,14 +38,17 @@ alias hosts='sudo vi /etc/hosts'
 alias gs='git status';
 alias gpl='git pull';
 alias gps='git push';
+alias gplo='git pull origin';
+alias gpso='git push origin';
 alias ga.='git add .';
 alias gaa='git add --all';
 alias gcm='git commit -m';
 alias gc='git checkout';
+alias gcb='git checkout -b';
 alias gb='git branch';
-alias gf='git fetch';
+alias gf='git fetch origin';
 alias gl='git log';
-alias gm='git merge';
+alias gm='git merge origin';
 alias gd='git diff';
 
 # git clone and cd into it. yeah
@@ -119,7 +122,6 @@ export MANPATH="$NPM_PACKAGES/share/man:$(manpath)"
 
 
 # end
-
 
 ```
 ## License
